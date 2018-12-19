@@ -1,0 +1,22 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "app.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recur"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mctias/Portfolio.git"
+  },
+  "author": "Mattias Persson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mctias/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Mctias/Portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
