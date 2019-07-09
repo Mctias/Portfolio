@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Mctias/Portfolio#readme",
   "dependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.12.0"
   }
 }
